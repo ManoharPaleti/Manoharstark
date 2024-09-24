@@ -1,6 +1,6 @@
 ![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+%F0%9F%91%8B+I'm+Manohar+Paleti;A+Full+Stack+and+Software+Developer &color=00BFFF" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+%F0%9F%91%8B+I'm+Manohar+Paleti;A+Full+Stack+Developer;A+Software+Developer &color=00BFFF" alt="Typing SVG" /></a>
 </h1>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoharstark&label=Profile%20views&color=0e75b6&style=flat" alt="manoharstark" /> </p>
